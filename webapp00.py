@@ -5,4 +5,5 @@ import streamlit as st
 
 st.title("Olá, Sophia!")
 st.header("Turma 2EI-S")
+st.subheader("Carne de batata com panela")
 st.write("quero almoçar!")
