@@ -4,3 +4,5 @@ import pandas as pd
 import streamlit as st
 
 st.title("Olá, Sophia!")
+st.header("Turma 2EI-S")
+st.write("quero almoçar!")
